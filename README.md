@@ -1,9 +1,9 @@
 # 👋
 
-[<img src="https://user-images.githubusercontent.com/6760/131197709-eaf19a34-7bfa-47f8-a3b1-68ca039500a7.png" width="16" height="16">][1] &nbsp;
-[<img src="https://user-images.githubusercontent.com/6760/131197389-36c4c8e9-6324-4816-8571-efa70f942d59.png" width="16" height="16">][2] &nbsp;
-[<img src="https://user-images.githubusercontent.com/6760/131196756-5b5cd248-525b-44f5-9bae-16702046b2f9.png" width="16" height="16">][3] &nbsp;
-[<img src="https://user-images.githubusercontent.com/6760/131197249-0c2d110d-693c-41f1-9f3c-6675cf985439.png" width="24" height="16">][4]
+[<img src="https://user-images.githubusercontent.com/6760/131197709-eaf19a34-7bfa-47f8-a3b1-68ca039500a7.png" width="16" height="16" alt="Strava">][1] &nbsp;
+[<img src="https://user-images.githubusercontent.com/6760/131197389-36c4c8e9-6324-4816-8571-efa70f942d59.png" width="16" height="16" alt="Twitter">][2] &nbsp;
+[<img src="https://user-images.githubusercontent.com/6760/131196756-5b5cd248-525b-44f5-9bae-16702046b2f9.png" width="16" height="16" alt="Instagram">][3] &nbsp;
+[<img src="https://user-images.githubusercontent.com/6760/131197249-0c2d110d-693c-41f1-9f3c-6675cf985439.png" width="24" height="16" alt="LinkedIn">][4]
 
 <!-- Icons -->
 
