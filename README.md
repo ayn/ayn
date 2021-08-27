@@ -19,7 +19,7 @@
 [4]: https://www.linkedin.com/in/andrewng
 
 
-![@ayn's github stats](https://github-readme-stats.vercel.app/api?username=ayn&count_private=true&show_icons=true&theme=github_dark)
+[![@ayn's github stats](https://github-readme-stats.vercel.app/api?username=ayn&count_private=true&show_icons=true&theme=github_dark)](#)
 
 <!--
 this seems to be wrong, or it doesn't include private repos:
