@@ -18,10 +18,10 @@
 [3]: https://instagram.com/ayn
 [4]: https://www.linkedin.com/in/andrewng
 
-
+<!--
+this seems to be broken lol
 [![@ayn's github stats](https://github-readme-stats.vercel.app/api?username=ayn&count_private=true&show_icons=true&theme=github_dark)](#)
 
-<!--
 this seems to be wrong, or it doesn't include private repos:
 ![@ayn's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayn&theme=github_dark&count_private=true&layout=compact)
 -->
