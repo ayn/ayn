@@ -1,6 +1,6 @@
 # 👋
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)]([https://github.com/Safouene1/support-palestine-banner](https://pcrf1.app.neoncrm.com/forms/gaza-recovery))
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://pcrf1.app.neoncrm.com/forms/gaza-recovery)
 
 [<img src="https://user-images.githubusercontent.com/6760/131197709-eaf19a34-7bfa-47f8-a3b1-68ca039500a7.png" width="16" height="16" alt="Strava">][1] &nbsp;
 [<img src="https://user-images.githubusercontent.com/6760/236303776-7d2d13bc-1553-4d0a-9ffa-7ebc25b21a00.svg" width="16" height="16" alt="Mastodon">][2] &nbsp;
