@@ -1,5 +1,7 @@
 # 👋
 
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+
 [<img src="https://user-images.githubusercontent.com/6760/131197709-eaf19a34-7bfa-47f8-a3b1-68ca039500a7.png" width="16" height="16" alt="Strava">][1] &nbsp;
 [<img src="https://user-images.githubusercontent.com/6760/236303776-7d2d13bc-1553-4d0a-9ffa-7ebc25b21a00.svg" width="16" height="16" alt="Mastodon">][2] &nbsp;
 [<img src="https://user-images.githubusercontent.com/6760/131196756-5b5cd248-525b-44f5-9bae-16702046b2f9.png" width="16" height="16" alt="Instagram">][3] &nbsp;
