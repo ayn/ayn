@@ -1,12 +1,10 @@
 # Andrew Ng
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://pcrf1.app.neoncrm.com/forms/gaza-recovery)
-
 I build production-ready MVPs in 4-6 weeks for founders who want to launch fast without hiring a full team. Engagements typically land in the $50k-$100k range. More at [andrewng.com](https://andrewng.com).
 
 Curator at [Lightmist Coffee](https://lightmist.coffee) in Taipei.
 
-I work across coffee, software, and small internet tools.
+I work across coffee, software, and small internet tools. 🍉
 
 ## Current Interests
 
