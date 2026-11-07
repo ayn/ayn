@@ -12,6 +12,7 @@ I work across coffee, software, and small internet tools. 🍉
 
 ## Selected Projects
 
+- [Strava Activity Tools](https://github.com/ayn/ha-strava-activity-tools): an open-source Home Assistant integration for webhook-driven Strava automations, historical AQI/UV, workout tagging, track-shoe assignment, and preview/history dashboards.
 - [WorkoutBridge](https://github.com/ayn/workoutbridge): an open-source app that turns training calendar entries into structured workouts for Garmin Connect and COROS.
 - [Strava event Discord bot](https://github.com/ExcelsiorRC/strava-event-discord-bot): club event announcements and calendar feeds, with OAuth refresh, rate-limit handling, recurring events, and tests.
 - [dotfit](https://github.com/ayn/dotfit): Python tooling for fitness-data synchronization.
