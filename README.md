@@ -6,6 +6,8 @@ I also take on focused engineering engagements across iOS, backend, and full-sta
 
 Previously cofounder and sole full-time iOS engineer at Priime (YC W15). I use AI coding agents extensively while owning architecture, reviewing implementation, and validating results.
 
+I'm a home automation and homelab enthusiast and a [Home Assistant Core contributor](https://github.com/home-assistant/core/pulls?q=is%3Apr+is%3Amerged+author%3Aayn).
+
 Also building [Lightmist Coffee](https://lightmist.coffee), a specialty coffee business in Taipei.
 
 I work across coffee, software, and small internet tools. 🍉
