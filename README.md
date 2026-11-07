@@ -4,7 +4,7 @@ I build production-ready MVPs in 4-6 weeks for founders who want to launch fast 
 
 I also take on focused engineering engagements across iOS, backend, and full-stack development. Based in Taipei, I work remotely with US time-zone overlap and travel to the US for the right short-term project, especially San Francisco and New York.
 
-Previously cofounder and sole full-time iOS engineer at Priime (YC W15), and Principal Engineer at Healthi. I use AI coding agents extensively while owning architecture, reviewing implementation, and validating results.
+Previously cofounder and sole full-time iOS engineer at Priime (YC W15). I use AI coding agents extensively while owning architecture, reviewing implementation, and validating results.
 
 Also building [Lightmist Coffee](https://lightmist.coffee), a specialty coffee business in Taipei.
 
@@ -12,6 +12,7 @@ I work across coffee, software, and small internet tools. 🍉
 
 ## Selected Projects
 
+- [Strava Activity Tools](https://github.com/ayn/ha-strava-activity-tools): an open-source Home Assistant integration for webhook-driven Strava automations, historical AQI/UV, workout tagging, track-shoe assignment, and preview/history dashboards.
 - [WorkoutBridge](https://github.com/ayn/workoutbridge): an open-source app that turns training calendar entries into structured workouts for Garmin Connect and COROS.
 - [Strava event Discord bot](https://github.com/ExcelsiorRC/strava-event-discord-bot): club event announcements and calendar feeds, with OAuth refresh, rate-limit handling, recurring events, and tests.
 - [dotfit](https://github.com/ayn/dotfit): Python tooling for fitness-data synchronization.
