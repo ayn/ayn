@@ -4,7 +4,7 @@ I build production-ready MVPs in 4-6 weeks for founders who want to launch fast 
 
 I also take on focused engineering engagements across iOS, backend, and full-stack development. Based in Taipei, I work remotely with US time-zone overlap and travel to the US for the right short-term project, especially San Francisco and New York.
 
-Previously cofounder and sole full-time iOS engineer at Priime (YC W15), and Principal Engineer at Healthi. I use AI coding agents extensively while owning architecture, reviewing implementation, and validating results.
+Previously cofounder and sole full-time iOS engineer at Priime (YC W15). I use AI coding agents extensively while owning architecture, reviewing implementation, and validating results.
 
 Also building [Lightmist Coffee](https://lightmist.coffee), a specialty coffee business in Taipei.
 
