@@ -14,12 +14,32 @@ I work across coffee, software, and small internet tools. 🍉
 
 ## Selected Projects
 
-- [Strava Activity Tools](https://github.com/ayn/ha-strava-activity-tools): an open-source Home Assistant integration for webhook-driven Strava automations, historical AQI/UV, workout tagging, track-shoe assignment, and preview/history dashboards.
-- [WorkoutBridge](https://github.com/ayn/workoutbridge): an open-source app that turns training calendar entries into structured workouts for Garmin Connect and COROS.
-- [Strava event Discord bot](https://github.com/ExcelsiorRC/strava-event-discord-bot): club event announcements and calendar feeds, with OAuth refresh, rate-limit handling, recurring events, and tests.
-- [dotfit](https://github.com/ayn/dotfit): Python tooling for fitness-data synchronization.
-- [PurpleMenu](https://github.com/ayn/PurpleMenu): a native macOS menu bar app for PurpleAir air-quality readings.
-- [AdGuard + Unbound + Tailscale](https://github.com/ayn/adguard-unbound-tailscale): a self-hosted DNS stack with private remote access.
+<table>
+  <tr>
+    <td><a href="https://github.com/ayn/ha-strava-activity-tools">Strava Activity Tools</a></td>
+    <td>Home Assistant automations for Strava: AQI/UV, workout tagging, shoes, and feed controls.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ayn/workoutbridge">WorkoutBridge</a></td>
+    <td>Turns training calendars into structured Garmin and COROS workouts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ExcelsiorRC/strava-event-discord-bot">Strava event Discord bot</a></td>
+    <td>Club event announcements and calendar feeds.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ayn/dotfit">dotfit</a></td>
+    <td>Python tools for fitness-data synchronization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ayn/PurpleMenu">PurpleMenu</a></td>
+    <td>PurpleAir readings in the macOS menu bar.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ayn/adguard-unbound-tailscale">AdGuard + Unbound + Tailscale</a></td>
+    <td>Self-hosted DNS with private remote access.</td>
+  </tr>
+</table>
 
 ## Current Interests
 
