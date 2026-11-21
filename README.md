@@ -16,8 +16,8 @@ I work across coffee, software, and small internet tools. 🍉
 
 <table>
   <tr>
-    <td><a href="https://github.com/ayn/ha-strava-activity-tools">Strava Activity Tools</a></td>
-    <td>Home Assistant automations for Strava: AQI/UV, workout tagging, shoes, and feed controls.</td>
+    <td><a href="https://github.com/ayn/ha-strava-automation">Strava Automation</a></td>
+    <td>Independent Home Assistant integration for Strava webhooks, AQI/UV, workout tagging, track shoes, and durable activity rules.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/ayn/workoutbridge">WorkoutBridge</a></td>
